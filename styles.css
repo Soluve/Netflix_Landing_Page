@@ -178,6 +178,9 @@ button{
         font-size: 18px;
         margin: 0 auto;
     }
+    .center-text{
+        padding: 40px 20px;
+    }
     .flex-item{
         width: 100%;
         text-align: center;
@@ -204,7 +207,7 @@ button{
     }
     .wrapper{
         justify-content: space-evenly;
-        gap: 30px;
+        gap: 10px;
        
     }
      
